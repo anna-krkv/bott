@@ -1,6 +1,6 @@
 // Конфигурация
 const TELEGRAM_BOT_TOKEN = '8504668447:AAEdjn4KO8EmgfWDNabSNu1os6vNlOOvkGw'; 
-const TELEGRAM_CHAT_ID = 'kjfdskjh_bot'; // ID чата/канала
+const TELEGRAM_CHAT_ID = '1496984901'; // ID чата/канала
 
 // Инициализация формы
 document.addEventListener('DOMContentLoaded', function() {
